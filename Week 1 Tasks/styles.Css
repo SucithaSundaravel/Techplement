@@ -1,0 +1,147 @@
+
+        #div1
+        {
+            background-image: url(./index\ background.jpg);
+            background-repeat: no-repeat;
+            background-size:cover;
+            background-attachment:fixed;   
+        }
+        img{
+            height: 500px;
+            width: 600px;
+        }
+        #img2
+        {
+            height: 80px;
+            width: 150px;
+        }
+        #button1
+        {
+            margin-bottom: 150px;
+            width: 200px;
+            height: 50px;
+            border-radius: 50px;
+            font-size: large;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            background-color: rgba(93, 245, 136, 0.298);
+            box-shadow: blanchedalmond;
+            margin-left: 20px;
+        }
+        body
+        {
+            background-image: url(./div2\ image.jpg);
+            background-repeat: no-repeat;
+            background-size:cover;
+            background-attachment:fixed; 
+        }
+        .productimage
+        {
+            width: 300px;
+            height: 300px;
+            border-color: black;
+            border-radius: 20px;
+            border-style:groove;
+            margin-left: 30px;
+            margin-top: 20px;
+        }
+        .value
+        {
+            padding-left:40px ;
+            font-size: larger;
+            color:blue;
+        }
+        .ratings
+        {
+            width: 35px;
+            margin-left:40px ;
+            color: aliceblue;
+            background-color: rgb(31, 142, 9);
+        }
+        .price
+        {
+            padding-left:40px ;
+        }
+        a
+        {
+            text-decoration: none;
+            color: blue;
+        }
+        #div3
+        {
+            background-image: url(./div4image.jpg);
+            height: 700px;width: 816px;
+            background-repeat: no-repeat;
+            background-size:cover;
+            background-attachment:fixed;   
+        }  
+        .divboatimage
+        {
+            height: 150px;width: 
+            150px;border-radius: 100%; 
+            margin-left: 10px;
+            margin-top: 10px;
+            margin-right: 10px;
+            margin-bottom:10px ;
+        }
+        #div4
+        {
+            height: 400px;
+            width: 1200px;
+            border-radius: 20px;
+            background-color: rgba(234, 237, 239, 0.787);
+            margin-left: 120px;
+        }
+        .button2
+        {
+            margin-top: 30px;
+            height: 50px;
+            width: 100px;
+            border-radius: 50px;
+            background-color: rgb(143, 227, 229);
+        }
+        fieldset
+        {
+            background-color: dimgray;
+            font-size: 50px;
+            color: rgb(221, 216, 69);
+        }
+        .endpagevalues
+        {
+            padding-left: 120px;
+        }
+        .endvalues
+        {
+            padding-left: 80px;color: rgb(105, 13, 13);
+        }
+        .f1
+        {
+            display: none;
+            width: 500px;
+        }
+        .f2
+        {
+            width: 500px;
+            background-color: rgba(255, 235, 205, 0);
+            margin-left: 500px;
+            border-style: hidden;
+        }
+        select
+        {
+            width: 600px;
+            background-color: rgba(255, 235, 205, 0);
+            margin-left: 100px;
+            border-style: hidden;
+        }
+        #lastdiv
+        {
+            background-color: rgb(115, 140, 142);
+            padding-top: 30px;
+            border-radius: 10px;
+        }
+        #lastdiv2
+        {
+            background-color: rgb(138, 157, 159);
+            padding-top: 1px;
+            padding-bottom: 1px;
+            color: rgb(104, 102, 102);
+        }
